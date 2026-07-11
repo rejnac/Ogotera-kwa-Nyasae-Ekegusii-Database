@@ -1,12 +1,12 @@
 # SDA Songs Databases
 
-This Repo contains databases of all SDA Songs in multiple languages.
+The Repo contains databases of all SDA Songs in multiple languages.
 
-Noted: The shared files were prepared on Videopsalm presentation software and exported in .vpc format.
+Note: The shared files were prepared on Videopsalm presentation software and exported in .vpc format.
 
-To access DB in JSON format, simply extract the .VPC files using standard archive applications such as Winrar and zip.
+To access the database in JSON format, simply extract the shared .VPC files using standard archive applications such as Winrar.
 
-List of includes songs;
+# List of includes songs;
 
 [1]. SDAH Hymnal
 
@@ -19,6 +19,6 @@ List of includes songs;
 Check back for more langauages and db updates. 
 
 
-Email info@rejnac.com or WhatsApp +254713860652 for support.
+Email info@rejnac.com or WhatsApp +254713860652 for personalised support.
 
 Prepared by sir enock, director at Rejnac Group Inc (https://rejnac.org).
