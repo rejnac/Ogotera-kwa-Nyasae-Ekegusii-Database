@@ -6,7 +6,7 @@ Please note that all files were prepared on Videopsalm presentation software and
 
 To access the database in JSON format, simply extract the shared .VPC files using standard archive applications such as Winrar.
 
-# List of included songs;
+List of Included Songs:
 
 [1]. SDAH Hymnal
 
