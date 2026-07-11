@@ -1,6 +1,6 @@
 # SDA Songs Databases
 
-The Repo contains databases of all SDA Songs in multiple languages.
+This repo contains databases of all SDA Songs in multiple languages.
 
 Please note that all files were prepared on Videopsalm presentation software and exported in .vpc format.
 
