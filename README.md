@@ -1,14 +1,24 @@
-# SDA Songs Database
-To access JSON file, simply extract the .VPC files using standard archive applications such as Winrar and zip.
+# SDA Songs Databases
 
-Database of all SDA songs in multiple languages. These include;
+This Report contains databases of all SDA Songs in multiple languages.
 
-(1) SDAH Hymnal
-(2) Nyimbo Za Christo
-(3) Ogotera kwa Nyasae
+Noted: The shared files were prepared on Videopsalm presentation software and exported in .vpc format.
 
-Check back for more langauages and corrections. 
+To access DB in JSON format, simply extract the .VPC files using standard archive applications such as Winrar and zip.
 
-Email info@rejnac.com for more support
+List of includes songs;
+
+[1]. SDAH Hymnal
+
+[2]. Nyimbo Za Christo
+
+[3]. Ogotera kwa Nyasae
+
+[4]. Dholuo hymns
+
+Check back for more langauages and db updates. 
+
+
+Email info@rejnac.com or visit https://rejnac.org for support.
 
 Prepared by sir enock, director at Rejnac Group Inc. 
