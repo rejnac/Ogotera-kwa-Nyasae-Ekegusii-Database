@@ -19,6 +19,6 @@ List of includes songs;
 Check back for more langauages and db updates. 
 
 
-Email info@rejnac.com or visit https://rejnac.org for support.
+Email info@rejnac.com or WhatsApp +254713860652 for support.
 
-Prepared by sir enock, director at Rejnac Group Inc. 
+Prepared by sir enock, director at Rejnac Group Inc (https://rejnac.org).
