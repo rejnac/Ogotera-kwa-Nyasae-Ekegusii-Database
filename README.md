@@ -21,4 +21,4 @@ Check back for more languages and db updates.
 
 Email info@rejnac.com or WhatsApp +254713860652 for personalised support.
 
-Prepared by sir enock, director at Rejnac Group Inc (https://rejnac.org).
+Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.org).
