@@ -2,11 +2,11 @@
 
 The Repo contains databases of all SDA Songs in multiple languages.
 
-Note: The shared files were prepared on Videopsalm presentation software and exported in .vpc format.
+Please note that all files were prepared on Videopsalm presentation software and exported in .vpc format.
 
 To access the database in JSON format, simply extract the shared .VPC files using standard archive applications such as Winrar.
 
-# List of includes songs;
+# List of included songs;
 
 [1]. SDAH Hymnal
 
@@ -16,7 +16,7 @@ To access the database in JSON format, simply extract the shared .VPC files usin
 
 [4]. Dholuo hymns
 
-Check back for more langauages and db updates. 
+Check back for more languages and db updates. 
 
 
 Email info@rejnac.com or WhatsApp +254713860652 for personalised support.
