@@ -1,17 +1,17 @@
 # Ogotera Kwa Nyasae Ekegusii Database
 
-Prepared by Rejnac Foundation,
+Prepared by Rejnac Foundation Team,
 
-The repo contains databases of all SDAH Songs in Kisii / Kikisii / Gusii / Ekegusii languages (Kenya)
+The repo contains databases of all SDAH Songs in Ekegusii language also called Kisii, Kikisii, or Gusii.
 
-Please note that all songs herein  were prepared on Videopsalm Church Presentation software, exported in .vpc format, and extracted as JSON file.
+Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
 # Links to Similar Projects
 
-Ekegusii:
-Swahili:
-SDAH Hymnal: 
-Dholuo:
+1. Ekegusii: https://github.com/rejnac/Ogotera-kwa-Nyasae-Ekegusii-Database
+2. Swahili:
+3. SDAH: 
+4. Dholuo:
 
 # Donation Contacts
 NOTE: It is an ongoing project, and we hereby welcome you to join us in correcting errors and funding this noble initiative.
