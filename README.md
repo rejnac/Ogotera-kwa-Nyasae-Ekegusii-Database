@@ -1,24 +1,21 @@
-# SDA Songs Databases
+# Ogotera Kwa Nyasae Ekegusii Database
 
-This repo contains databases of all SDA Songs in multiple languages.
+Prepared by Rejnac Foundation,
 
-Please note that all files were prepared on Videopsalm presentation software and exported in .vpc format.
+The repo contains databases of all SDAH Songs in Kisii / Kikisii / Gusii / Ekegusii languages (Kenya)
 
-To access the database in JSON format, simply extract the shared .VPC files using standard archive applications such as Winrar.
+Please note that all songs herein  were prepared on Videopsalm Church Presentation software, exported in .vpc format, and extracted as JSON file.
 
-List of Included Songs:
+# Links to Similar Projects
 
-[1]. SDAH Hymnal
+Ekegusii:
+Swahili:
+SDAH Hymnal: 
+Dholuo:
 
-[2]. Nyimbo Za Christo
+# Donation Contacts
+NOTE: It is an ongoing project, and we hereby welcome you to join us in correcting errors and funding this noble initiative.
 
-[3]. Ogotera kwa Nyasae
-
-[4]. Dholuo hymns
-
-Check back for more languages and db updates. 
-
-
-Email info@rejnac.com or WhatsApp +254713860652 for personalised support.
+Paypal: info@rejnac.com or MPesa: +254713860652 .
 
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.org).
