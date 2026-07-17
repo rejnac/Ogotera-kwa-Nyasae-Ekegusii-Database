@@ -1,6 +1,6 @@
-# Ogotera Kwa Nyasae Ekegusii Database
+# Ogotera Kwa Nyasae Ekegusii Database by Rejnac Foundation
 
-Prepared by Rejnac Foundation Team,
+Prepared by sir enock,
 
 The repo contains databases of all SDAH Songs in Ekegusii language also called Kisii, Kikisii, or Gusii.
 
