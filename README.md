@@ -2,7 +2,7 @@
 
 By sir enock,
 
-The repo contains databases of all SDAH Songs in Ekegusii language also called Kisii, Kikisii, or Gusii.
+The repository contains databases of all SDAH Songs in Ekegusii language also called Kisii, Kikisii, or Gusii.
 
 Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
