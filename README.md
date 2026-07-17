@@ -1,4 +1,4 @@
-# Ogotera Kwa Nyasae Db by Rejnac Foundation.
+# Ogotera Kwa Nyasae by Rejnac Foundation.
 
 Prepared by sir enock,
 
