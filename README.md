@@ -14,11 +14,13 @@ Please note that the songs were initially prepared on Videopsalm Church Presenta
 4. Dholuo:
 
 # Donation contacts
-Ogotera Kwa Nyasae is part of several other database and lyrics projects ongoing in different languages. 
-
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
 
 * Paypal: info@rejnac.com 
 * M-Pesa: +254713860652 
+
+"Preserving the Heritage of SDA worship materials" is our ultimate goal!
+
+Ogotera Kwa Nyasae is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
