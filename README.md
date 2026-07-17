@@ -8,7 +8,7 @@ Please note that the songs were initially prepared on Videopsalm Church Presenta
 
 # Links to similar projects
 
-1. Ekegusii: https://tinyurl.com/ekegusii
+1. Ekegusii: https://tinyurl.com/rejnac-ogotera
 2. Swahili:
 3. SDAH: 
 4. Dholuo:
