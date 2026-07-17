@@ -8,7 +8,7 @@ Please note that the songs were initially prepared on Videopsalm Church Presenta
 
 # Links to Similar Projects
 
-1. Ekegusii: https://github.com/rejnac/Ogotera-kwa-Nyasae-Ekegusii-Database
+1. Ekegusii: https://tinyurl.com/ekegusii
 2. Swahili:
 3. SDAH: 
 4. Dholuo:
