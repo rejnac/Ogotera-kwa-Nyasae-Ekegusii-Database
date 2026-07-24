@@ -1,4 +1,4 @@
-# Ogotera Kwa Nyasae by Rejnac Foundation.
+# Ogotera Kwa Nyasae from Rejnac Foundation.
 
 By sir enock,
 
