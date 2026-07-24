@@ -2,11 +2,11 @@
 
 By sir enock,
 
-The repository contains databases of all SDAH Songs in Ekegusii language also called Kisii, Kikisii, or Gusii.
+The repository contains all the 370 Ogotera Kwa Nyasae hymnal lyrics in Ekegusii language also called Kisii, Gusii pr Kikisii.
 
 Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
-# Links to similar projects
+# Links to related projects
 
 1. Ekegusii: https://tinyurl.com/rejnac-ogotera
 2. Swahili:
